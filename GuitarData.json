@@ -58,10 +58,10 @@
 		"Brand": "Fender",
 		"ProductName": "Jazzmaster",
 		"GraphicName": "graphicName?",
-		"CostPrice": 1049.00,
-		"MSRP": 1050.00,
-		"QtyOnHand": 40,
-		"QtyOnBackOrder": 20,
+		"CostPrice": "1049.00",
+		"MSRP": "1050.00",
+		"QtyOnHand": "40",
+		"QtyOnBackOrder": "20",
 		"Description": "Fender electric guitar, model Jazzmaster, Player Jazzmaster Pau Ferro - Buttercream, Right Handed"
 	},
 	{
