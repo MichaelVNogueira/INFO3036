@@ -1,4 +1,5 @@
 [{
+		"Id": "1a2b3c",
 		"Brand": "Gibson",
 		"ProductName": "SG Standard",
 		"GraphicName": "graphicName?",
@@ -9,6 +10,7 @@
 		"Description": "Gibson electric guitar, model SG standard, Heritage Cherry Finish, Right Handed"
 	},
 	{
+		"Id": "4f7d5s",
 		"Brand": "Gibson",
 		"ProductName": "SG Modern",
 		"GraphicName": "graphicName?",
@@ -19,6 +21,7 @@
 		"Description": "Gibson electric guitar, model  SG modern, Blueberry Fade finish, Right Handed"
 	},
 	{
+		"Id": "2d9j6f",
 		"Brand": "Gibson",
 		"ProductName": "Les Paul",
 		"GraphicName": "graphicName?",
@@ -29,6 +32,7 @@
 		"Description": "Gibson electric guitar, model Les Paul 70s Deluxe, 70s Cherry sunburst Finish, Right Handed"
 	},
 	{
+		"Id": "3j9d6g",
 		"Brand": "Fender",
 		"ProductName": "Telecaster",
 		"GraphicName": "graphicName?",
@@ -39,6 +43,7 @@
 		"Description": "Fender electric guitar, model Telecaster, 70th Anniversary Broadcaster with Maple Fingerboard - Blackguard Blonde, Right Handed"
 	},
 	{
+		"Id": "0d7s8j",
 		"Brand": "Fender",
 		"ProductName": "Stratocaster",
 		"GraphicName": "graphicName?",
@@ -49,6 +54,7 @@
 		"Description": "Fender electric guitar, model Stratocaster, Maple Fingerboard, Diamond Anniversary, Right Handed"
 	},
 	{
+		"Id": "3j9s7f",
 		"Brand": "Fender",
 		"ProductName": "Jazzmaster",
 		"GraphicName": "graphicName?",
@@ -59,6 +65,7 @@
 		"Description": "Fender electric guitar, model Jazzmaster, Player Jazzmaster Pau Ferro - Buttercream, Right Handed"
 	},
 	{
+		"Id": "2n7g2l",
 		"Brand": "Taylor",
 		"ProductName": "Grand Auditorium",
 		"GraphicName": "graphicName?",
@@ -69,6 +76,7 @@
 		"Description": "Taylor acoustic guitar, Grand Auditorium All-Koa Solid-Top Acoustic/Electric Guitar, Right Handed"
 	},
 	{
+		"Id": "2d7h6f",
 		"Brand": "Taylor",
 		"ProductName": "Mini Rosewood",
 		"GraphicName": "graphicName?",
@@ -79,6 +87,7 @@
 		"Description": "Taylor acoustic guitar, GS Mini Rosewood Acoustic Guitar, Right Handed"
 	},
 	{
+		"Id": "1l9f7h",
 		"Brand": "Taylor",
 		"ProductName": "314ce Rosewood/Cedar",
 		"GraphicName": "graphicName?",
