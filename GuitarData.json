@@ -1,57 +1,58 @@
 [{
 		"Id": "1a2b3c",
 		"Brand": "Gibson",
-		"ProductName": "SG Standard",
+		"ProductName": "SG Standard 61 - Vintage Cherry",
 		"GraphicName": "GibsonSG.jpg",
-		"CostPrice": "1499.00",
-		"MSRP": "1500.00",
+		"CostPrice": "1599.00",
+		"MSRP": "1799.00",
 		"QtyOnHand": "100",
 		"QtyOnBackOrder": "50",
-		"Description": "Gibson electric guitar, model SG standard, Heritage Cherry Finish, Right Handed"
+		"Description": "The SG Standard ‘61 returns to the classic design that made it relevant, played and loved -- shaping sound across generations and genres of music. In 1961, the Les Paul model was put on hiatus and an all new design evolved into what is today known as the SG or “solid guitar”. The Gibson SG Standard '61 retains the styling of the original featuring a slim taper mahogany neck and a bound rosewood fingerboard. The mahogany body features deeply sculpted body scarfing, a 5-ply teardrop pickguard and a 22nd-fret neck joint. The nickel plated hardware includes a classic-style Tune-O-Matic bridge and keystone tuners. The pickups are 61R and 61T humbuckers for a classic voice with added power and top end. Controls feature audio taper potentiometers and orange drop capacitors. "
 	},
 	{
 		"Id": "4f7d5s",
 		"Brand": "Gibson",
-		"ProductName": "SG Modern",
+		"ProductName": "SG Modern - Blueberry Fade",
 		"GraphicName": "GibsonSGMod.jpg",
-		"CostPrice": "1999.00",
-		"MSRP": "2000.00",
+		"CostPrice": "1650.00",
+		"MSRP": "2999.00",
 		"QtyOnHand": "300",
 		"QtyOnBackOrder": "75",
-		"Description": "Gibson electric guitar, model  SG modern, Blueberry Fade finish, Right Handed"
+		"Description": "The newly refreshed Gibson SG Modern incorporates many contemporary updates that players have embraced and it’s much more than a classic “solid guitar”; it’s a hybrid between an SG and a Les Paul. Shaped and scarfed like a classic SG, the body is crafted with a AA maple top and mahogany back, characteristic of a Les Paul. This combination is renowned for its resonance and sustain. The genuine ebony, 24 fret compound radius fingerboard and asymmetrical, slim taper neck allow fast and silky access to the highest frets. A pair of calibrated BurstBucker Pro Alnico V humbuckers deliver fire power and the push-pull controls allows you to switch between the Gibson humbucker and the single coil P90 sounds, both of which have defined so many genres of music across multiple generations since we invented them. Upscale appointments include genuine mother of pearl inlays, Grover Rotomatic tuners, and clear top hat knobs. "
 	},
 	{
 		"Id": "2d9j6f",
 		"Brand": "Gibson",
-		"ProductName": "Les Paul",
+		"ProductName": "Les Paul 70s Deluxe - 70s Cherry Sunburst",
 		"GraphicName": "GibsonLesPaul.jpg",
-		"CostPrice": "2499.00",
-		"MSRP": "2500.00",
+		"CostPrice": "2000.00",
+		"MSRP": "2400.00",
 		"QtyOnHand": "100",
 		"QtyOnBackOrder": "50",
-		"Description": "Gibson electric guitar, model Les Paul 70s Deluxe, 70s Cherry sunburst Finish, Right Handed"
+		"Description": "First released in 1969, the Deluxe saw the introduction of the mini humbucker™ to the Les Paul lineup. Mini humbuckers retain the hum-free performance of their full-sized cousins but with a somewhat clearer and brighter tonality. The new Deluxe has features that were inspired by those early models from the 1970s, with a non-weight relief mahogany body and bound maple top, a bound mahogany neck with a Rounded C profile, vintage-style Keystone tuners, Graph Tech nut, and a traditional Les Paul control layout with 2 Volume and 2 Tone controls wired with Orange Drop® capacitors. Available in classic Goldtop and 70s Cherry Sunburst gloss nitrocellulose lacquer finishes. "
 	},
  	{
 		"Id": "4h8s3k",
 		"Brand": "Gibson",
-		"ProductName": "ES",
+		"ProductName": "ES-355 - Sixties Cherry",
 		"GraphicName": "GibsonES.jpg",
-		"CostPrice": "2499.00",
-		"MSRP": "2500.00",
+		"CostPrice": "2500.00",
+		"MSRP": "2999.00",
 		"QtyOnHand": "76",
 		"QtyOnBackOrder": "50",
-		"Description": "Gibson electric guitar, model ES-335, sixties Cherry Finish, Right Handed"
+		"Description": "The Gibson ES-335 DOT is the cornerstone of the Gibson ES line-up. From its inaugural appearance in 1958, the Gibson ES-335 set an unmatched standard. The pearloid dot inlay rosewood fingerboard on a hand-rolled Rounded \"C\" mahogany neck remind players where it all started. Gibson's Calibrated T-Type humbucking pickups are paired with our hand-wired control assembly. The result is that versatile Gibson ES tone that players have craved for over 60 years. Tuning stability and precise intonation are provided by the Vintage Deluxe tuners with Keystone buttons, paired with light weight Aluminum ABR-1 bridge and Stop Bar tailpiece, anchored by steel thumb-wheels and tailpiece studs. "
+		
 	},
  	{
 		"Id": "3h8h9k",
 		"Brand": "Gibson",
-		"ProductName": "Hummingbird",
+		"ProductName": "Hummingbird Original - Antique Natural",
 		"GraphicName": "GibsonHBird.jpg",
-		"CostPrice": "2799.00",
-		"MSRP": "2800.00",
+		"CostPrice": "2700.00",
+		"MSRP": "2849.00",
 		"QtyOnHand": "104",
 		"QtyOnBackOrder": "51",
-		"Description": "Gibson acoustic guitar, model Hummingbird Standard - Vintage Sunburst Finish, Right Handed"
+		"Description": "The unmistakable Gibson Hummingbird is followed by the masses as one of the most remarkable acoustic guitars ever built. The new Hummingbird Original blends vintage appointments and today's modern, high-quality build construction. Outfitted with gold Gotoh Keystone tuners, double antiqued binding, a traditional Hummingbird truss rod cover, and a bone nut and saddle, it's available in Antique Natural or Heritage Cherry Sunburst finish. "
 	},
   	{
 		"Id": "4h8f0a",
@@ -59,119 +60,119 @@
 		"ProductName": "Dove Original",
 		"GraphicName": "GibsonDove.jpg",
 		"CostPrice": "4299.00",
-		"MSRP": "4300.00",
+		"MSRP": "4000.00",
 		"QtyOnHand": "104",
 		"QtyOnBackOrder": "51",
-		"Description": "Gibson acoustic guitar, model Dove Original - Vintage Cherry Sunburst Finish, Right Handed"
+		"Description": "This famous flame maple-backed square-shoulder introduced in the early 60s is intertwined with one of the most revolutionary decades in popular music history. Its maple back and sides and long scale produce the crisp, clear tone and projection, while the square-shoulder body adds balance and warmth. Classic Dove details include bone nut and saddle, double antiqued multi-ply binding, nickel Grover keystone tuners, a traditional Dove truss rod cover, and a cherished pickguard featuring an inlaid mother-of-pearl Dove with hand-engraved and painted detailing. "
 	},
 	{
 		"Id": "3j9d6g",
 		"Brand": "Fender",
-		"ProductName": "Telecaster",
+		"ProductName": "70th Anniversary Broadcaster",
 		"GraphicName": "FenderTele.jpg",
-		"CostPrice": "1099.00",
-		"MSRP": "1100.00",
+		"CostPrice": "1699.00",
+		"MSRP": "1999.99",
 		"QtyOnHand": "10",
 		"QtyOnBackOrder": "5",
-		"Description": "Fender electric guitar, model Telecaster, 70th Anniversary Broadcaster with Maple Fingerboard - Blackguard Blonde, Right Handed"
+		"Description": "The Fender® 70th Anniversary Broadcaster celebrates the remarkable origins of one of Fender’s most iconic models. Features include an ash body with Blackguard Blonde lacquer finish, period-correct black phenolic pickguard, thick \"U\"-shaped neck, Custom Shop-designed '50-'51 Blackguard pickups, special anniversary neck plate, embroidered case and a custom COA. The controls are wired for standard Telecaster operation, while an optional original Broadcaster wiring kit, included in the case, can be installed to replicate the unique \"blend\" circuit used in original Broadcasters. Production of the 70th Anniversary Broadcaster will be limited to 2020 only."
 	},
 	{
 		"Id": "0d7s8j",
 		"Brand": "Fender",
-		"ProductName": "Stratocaster",
+		"ProductName": "75th Anniversary Commemorative Stratocaster",
 		"GraphicName": "FenderStrat.jpg",
-		"CostPrice": "1099.00",
-		"MSRP": "1100.00",
+		"CostPrice": "1800.00",
+		"MSRP": "1949.99",
 		"QtyOnHand": "105",
 		"QtyOnBackOrder": "50",
-		"Description": "Fender electric guitar, model Stratocaster, Maple Fingerboard, 3 color sunburst, Right Handed"
+		"Description": "The 75th Anniversary Commemorative Stratocaster is decked out in a beautiful 2-Color Bourbon Burst finish over an ash body, with gold hardware and pearl button locking tuners. The one-piece maple neck features a Deep \"C\" profile, rolled fingerboard edges, a \"Super-Natural\" satin finish and a sculpted neck heel for unsurpassed comfort and playability. Custom Shop Fat ‘60s pickups provide sweet Strat tone with added low-end punch while a 2-point tremolo with cold-rolled steel block enhances sparkle, sustain and tuning stability. Finally, each Commemorative Stratocaster features a 75th anniversary ingot inlaid into the back of the headstock and an engraved anniversary neck plate."
 	},
 	{
 		"Id": "3j9s7f",
 		"Brand": "Fender",
-		"ProductName": "Jazzmaster",
+		"ProductName": "Vintera '60s Jazzmaster",
 		"GraphicName": "FenderJazz.jpg",
-		"CostPrice": "1049.00",
-		"MSRP": "1050.00",
+		"CostPrice": "1000.00",
+		"MSRP": "1049.00",
 		"QtyOnHand": "40",
 		"QtyOnBackOrder": "20",
-		"Description": "Fender electric guitar, model Vintero 60's Jazzmaster, ice blue metallic Right Handed"
+		"Description": "For authentic, vintage-style tone we re-voiced the pair of wide single-coil Jazzmaster pickups to behave more like the originals. The warm, smooth-sounding neck pickup is balanced by the bright, cutting bridge pickup. The \"Mid '60s C\"-shaped neck has a classy painted headstock, along with a 7.25\"-radius maple fingerboard with 21 vintage-style frets for classic feel. A vintage-style Jazzmaster floating tremolo and vintage-style tuning machines provide original-era aesthetics, rock-solid performance and tuning stability. Other features include the classic lead/rhythm circuit, chrome hardware and 4-bolt neck plate. Includes a deluxe gig bag."
 	},
  	{
 		"Id": "4j8s0f",
 		"Brand": "Fender",
-		"ProductName": "Jaguar",
+		"ProductName": "Vintera '60s Jaguar Modified HH",
 		"GraphicName": "FenderJaguar.jpg",
-		"CostPrice": "1089.00",
-		"MSRP": "1100.00",
+		"CostPrice": "1099.00",
+		"MSRP": "1229.00",
 		"QtyOnHand": "140",
 		"QtyOnBackOrder": "25",
-		"Description": "Fender electric guitar, model Vintera 60s Jaguar Modified HH, sonic blue, Right Handed"
+		"Description": "To crank out giant-sized tone from this short-scale wonder, we loaded it up with a pair of high-output Atomic™ humbucking pickups. They have the power to easily drive a tube amp into luscious overdrive, while retaining the articulate sound that made Fender famous. The \"Modern C\"-shaped neck has a 9.5\"-radius maple fingerboard with 22 medium-jumbo frets, for modern playing feel. An Adjusto-matic™ bridge is paired to Jaguar floating tremolo, while vintage-style tuning machines provide original-era aesthetics, rock-solid performance and tuning stability. Joining the master volume and tone controls, two sliders on the lower bout activate/deactivate each pickup while the third slider activates a \"tone cut\". The wheels on the upper horn select between single-coil and humbucking modes for each pickup, giving you more tonal variety. Other features include a kill switch mounted on the upper horn, chrome hardware and four-bolt neck plate. Includes a deluxe gig bag."
 	},
  	{
 		"Id": "4j8g3o",
 		"Brand": "Fender",
-		"ProductName": "Mustang",
+		"ProductName": "Player Mustang 90",
 		"GraphicName": "FenderMustang.jpg",
-		"CostPrice": "649.99",
-		"MSRP": "650.00",
+		"CostPrice": "500.99",
+		"MSRP": "649.00",
 		"QtyOnHand": "40",
 		"QtyOnBackOrder": "23",
-		"Description": "Fender electric guitar, model Player Mustang 90, Burgundy Mist Metallic, Right Handed"
+		"Description": "Perfect for garage rock and other styles that thrive on nonconformity, the Mustang 90 offers a distinctive take on a classic model. With upgraded features, unique aesthetics and fat Fender sound, this spirited instrument is perfect for players that march to a different beat. A new take on an underground classic, it stays true to the rebellious spirit that birthed rock 'n' roll."
 	},
 	{
 		"Id": "2n7g2l",
 		"Brand": "Taylor",
-		"ProductName": "Grand Auditorium",
+		"ProductName": "412ce-R Grand Auditorium",
 		"GraphicName": "TaylorGrand.jpg",
-		"CostPrice": "2299.00",
+		"CostPrice": "1990.00",
 		"MSRP": "2300.00",
 		"QtyOnHand": "349",
 		"QtyOnBackOrder": "57",
-		"Description": "Taylor acoustic guitar, Grand Auditorium All-Koa Solid-Top Acoustic/Electric Guitar, Right Handed"
+		"Description": "The solid ovangkol/spruce 412ce features Taylor’s compact Grand Concert body shape, a short-scale neck, and V-Class bracing, which delivers an overall boost to the volume and sustain produced by this small-bodied guitar. Ovangkol shares rosewood’s full-spectrum tonal range, with a slightly fuller midrange and a bright, focused top end. The smaller body will curb the overtones and fit well in a mix with other instruments. Taylor’s Expression System® 2 pickup delivers clear, natural sounding amplified tone for gigging or recording. Aesthetic details include white binding, Italian acrylic dot fretboard inlays, a three-ring rosette, and a full-gloss body. The guitar ships in a Taylor deluxe hardshell case."
 	},
 	{
 		"Id": "2d7h6f",
 		"Brand": "Taylor",
-		"ProductName": "Mini Rosewood",
+		"ProductName": "GS Mini Rosewood",
 		"GraphicName": "TaylorMiniRose.jpg",
-		"CostPrice": "799.00",
+		"CostPrice": "700.00",
 		"MSRP": "800.00",
 		"QtyOnHand": "300",
 		"QtyOnBackOrder": "50",
-		"Description": "Taylor acoustic guitar, GS Mini Rosewood Acoustic Guitar, Right Handed"
+		"Description": "An exciting new entry in our lineup of ultra-popular short-scale guitars, this rosewood edition of the GS Mini brings the beauty and resonance of the all-star acoustic tonewood to a comfortable, easy-to-transport package. With its reduced size and slender, comfortable neck, the GS Mini offers an inviting, intimate playing experience for guitarists of all styles and levels of ability. Thanks to the GS Mini’s bold tone and projection, you’ll have everything you need for practice, jam sessions, and even live performances—it even comes with a durable structured gig bag."
 	},
 	{
 		"Id": "1l9f7h",
 		"Brand": "Taylor",
 		"ProductName": "314ce Rosewood/Cedar",
 		"GraphicName": "Taylor314CE.jpg",
-		"CostPrice": "3399.00",
+		"CostPrice": "3000.00",
 		"MSRP": "3400.00",
 		"QtyOnHand": "300",
 		"QtyOnBackOrder": "50",
-		"Description": "Taylor acoustic guitar, Special Edition 314ce Rosewood/Cedar Acoustic-Electric Guitar, Right Handed"
+		"Description": "The popular Grand Auditorium 314ce is an acoustic workhorse that performs equally well in the practice room, recording studio, and on stage. This Long & McQuade exclusive features a cedar/rosewood combination. A true performer for those with a lighter touch, cedar tops yield extra warmth and pair nicely with rosewood's deep lows and bright, sparkling treble notes. By introducing a more orderly vibration to the guitar's top, V-Class bolsters the sustain and volume to offer players a more dynamic voice to explore, while also resolving the minor intonation issues that players have long had to contend with. "
 	},
  	{
 		"Id": "4h8s0k",
 		"Brand": "Taylor",
-		"ProductName": "T3",
+		"ProductName": "T3 Series",
 		"GraphicName": "TaylorT3.jpg",
-		"CostPrice": "2199.00",
+		"CostPrice": "2000.00",
 		"MSRP": "2200.00",
 		"QtyOnHand": "30",
 		"QtyOnBackOrder": "50",
-		"Description": "Taylor electric guitar, T3 Semi-Hollow Body Electric Guitar, Right Handed"
+		"Description": "Semi-hollowbody electrics have always offered players tonal versatility, boasting a flavorful musical resume that spans jazz, rockabilly, classic rock, vintage country, power pop and more. We’ve built on that diverse heritage with innovative Taylor designs to create the T3. At the heart of it all is our proprietary pickup design. Our standard setup features our high-definition humbuckers, with optional mini humbuckers for a mix of power and clarity, or vintage alnicos that respond with extra warmth. A three-way switch covers full neck, neck/bridge and full bridge configurations, while a coil-splitting application (pulling up the volume knob) transforms the humbuckers into single coil pickups. Roll the tone knob to boost the mids and pull it up to activate another level of control that dials in mellow warmth without giving up clarity.  "
 	},
   	{
 		"Id": "3h7d4k",
 		"Brand": "Taylor",
 		"ProductName": "T5z Classic",
 		"GraphicName": "TaylorT5z.jpg",
-		"CostPrice": "1999.00",
-		"MSRP": "2000.00",
+		"CostPrice": "1500.00",
+		"MSRP": "1999.00",
 		"QtyOnHand": "30",
 		"QtyOnBackOrder": "50",
-		"Description": "Taylor electric guitar, mohogony top, T5z Classic, Right Handed"
+		"Description": "Like its bigger sibling, the T5, the hollowbody T5z packs a dynamic range of electric and amplified acoustic tones into one guitar. The difference is a more compact body size (closer to a solidbody) and playing features that electric players will love: a 12-inch fretboard radius (compared to 15-inch on the T5), jumbo frets that making bending strings easier, and slightly more feedback resistance with high-gain distortion. Hybrid electric/acoustic design features include a three-pickup configuration — a magnetic acoustic body sensor, a concealed neck humbucker, and a visible bridge humbucker — plus five-way switching and onboard tone controls that let you shift from shimmering acoustic to screaming electric in an instant. The guitar’s dual compatibility with electric and acoustic amps is the icing on the cake, putting incredible performance versatility into a player’s hands."
 	}
 ]
